@@ -1,0 +1,79 @@
+{
+	"folders": [
+		{
+			"path": "../.vscode"
+		},
+		{
+			"path": "../ADVC84template-master"
+		},
+		{
+			"path": "../ADVC85VPtemplate-main"
+		},
+		{
+			"path": "../ADV-C86-Student"
+		},
+		{
+			"path": "../ADVC87template-main"
+		},
+		{
+			"path": "../ADVC88template-master"
+		},
+		{
+			"path": "../ADV-C89-student"
+		},
+		{
+			"path": "../ADV-C96-Student"
+		},
+		{
+			"path": "../C61-project-template"
+		},
+		{
+			"path": "../C-62 V2 game lab template"
+		},
+		{
+			"path": "../C86template-main"
+		},
+		{
+			"path": "../C94_practice"
+		},
+		{
+			"path": "../guess-the-word-game"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Kwitter practice"
+		},
+		{
+			"path": "../Math quiz"
+		},
+		{
+			"path": "../MovingRover"
+		},
+		{
+			"path": "../Practice"
+		},
+		{
+			"path": "../Project-79_Template-main"
+		},
+		{
+			"path": "../Project-80Template-main"
+		},
+		{
+			"path": "../responsive_paint"
+		},
+		{
+			"path": "../Student Assets"
+		},
+		{
+			"path": "../Student-template-C60v2"
+		},
+		{
+			"path": "../Tim Berners Lee"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "kwitter"
+	}
+}
